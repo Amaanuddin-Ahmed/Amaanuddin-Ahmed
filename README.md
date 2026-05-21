@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Amaan! 👋
 
-<!--
-**Amaanuddin-Ahmed/Amaanuddin-Ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Student @ MGIT Hyd
+Learning the art of breaking and fixing things.
 
-Here are some ideas to get you started:
+### 🔍 Passion
+I love debugging and diving deep into real-world problems *(because if it works the first time, it’s suspicious)*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Current State
+- ☕ Fuelled by caffeine and curiosity.
+- 💻 Struggling with nested Git repositories.
+- 🚀 Living for the moment the terminal finally says `working tree clean`.
+
+> "My code doesn't always work, but when it does, I forget to copy the terminal command." 😉
