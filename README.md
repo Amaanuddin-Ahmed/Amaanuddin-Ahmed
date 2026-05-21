@@ -3,9 +3,6 @@
   <img src="glowing-border.svg" width="100%" style="display: block; margin: 0; padding: 0;" />
 </div>
 
-
-
-
 # I'm Amaan! Not too easy to find someone like me ..
 
 ### 🎓 Engineering Student @ MGIT Hyderabad
@@ -25,9 +22,9 @@ Converting bugs to butterflies.. 😁 curiosity dives into me when an error occu
 <p>
 **Current Mission:** Automating my entire digital existence <br>    Trying to solve my own problems by creating them .. <br><br>
 
-
-
-
-<p align="center">
-  <img src="glowing-border.svg" width="100%" />
 </p>
+
+
+<div style="margin: 0; padding: 0; line-height: 0; margin-top: 0px;">
+  <img src="glowing-footer.svg" width="100%" style="display: block; margin: 0; padding: 0;" />
+</div>
