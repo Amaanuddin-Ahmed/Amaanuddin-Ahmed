@@ -1,0 +1,46 @@
+<svg viewBox="0 0 800 100" width="100%" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1" />
+      <feGaussianBlur stdDeviation="20" result="blur2" />
+      <feMerge>
+        <feMergeNode in="blur2" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <linearGradient id="laser-train" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="25%" stop-color="#4facfe" />
+      <stop offset="50%" stop-color="#ff007f" />
+      <stop offset="75%" stop-color="#7f00ff" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .track-line {
+      stroke: #121318;
+      stroke-width: 4;
+      fill: none;
+    }
+    .glowing-laser {
+      stroke: url(#laser-train);
+      stroke-width: 5;
+      stroke-dasharray: 300 1500;
+      stroke-dashoffset: 1800;
+      animation: speedTrain 3s linear infinite;
+      fill: none;
+    }
+    @keyframes speedTrain {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+
+  <rect x="10" y="10" width="780" height="80" rx="20" class="track-line" />
+  
+  <rect x="10" y="10" width="780" height="80" rx="20" class="glowing-laser" filter="url(#neon-glow)" />
+</svg>
