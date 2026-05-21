@@ -1,5 +1,4 @@
-
-  <div style="margin: 0; padding: 0; line-height: 0;">
+<div style="margin: 0; padding: 0; line-height: 0;">
   <img src="glowing-border.svg" width="100%" style="display: block; margin: 0; padding: 0;" />
 </div>
 
@@ -20,10 +19,8 @@ Converting bugs to butterflies.. 😁 curiosity dives into me when an error occu
 
 ### 🚀 The Mindset | Beyond the Code
 <p>
-**Current Mission:** Automating my entire digital existence <br>    Trying to solve my own problems by creating them .. <br><br>
-
+**Current Mission:** Automating my entire digital existence <br>  Trying to solve my own problems by creating them ..
 </p>
-
 
 <div style="margin: 0; padding: 0; line-height: 0; margin-top: 0px;">
   <img src="glowing-footer.svg" width="100%" style="display: block; margin: 0; padding: 0;" />
