@@ -1,257 +1,449 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 900 520" width="900" height="520" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjYThhNzcyMC0yMTMwLTQ2OTktODJjNC01NDg1M2JmNTYwZDUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaOEh4MBWeU0kkw8ixQpwRzEAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozZjJkN2NhOC1iZWQ0LTQ3N2ItOWUyYi1kOTVjNTRiN2FlMDVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0tBvMuC8oCCmLUpMg3mfbAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg+IDVk/LBICVfbxxr2GBsbP5gJrA0JA5MfWbqjR14J3SkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBIRSY57PoP3OmJQzPR+EhwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBfWjwqyOK2EOq78gvEEhQZZjeLwJyoKX9pXAq75/eYmmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjiZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmNhOGE3NzIwLTIxMzAtNDY5OS04MmM0LTU0ODUzYmY1NjBkNS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFjNmRmODZmLTRjNjAtNDAxNy1hYmQ4LTQ2NDA2OTZmOWFjM3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD4gNWT8sEgJV9vHGvYYGxs/mAmsDQkDkx9ZuqNHXgndKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKRucxq3gWKoyb30ihu7/hQCG+7om/5VlNYEn6olhcjaiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggGg9Q8GuMDzAmiPrJA+AMuwCy2QijCBfzE3kwFb5MFT10Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFS8lkTCLmTH5wHAZ69WargTu6rqP7fl5TOi3QEYIN0KE/hMxwW14+ne07Kyhkkp3z4n32KzBYFSmAHJR2s2RVE=</c2pa:manifest></metadata>
-  <title id="t">Amaan - Engineering Student at MGIT Hyderabad</title>
-  <desc id="d">Animated profile card: a glowing rainbow border, typing tagline, and a boy coding on a computer at night.</desc>
-  <defs>
-    <linearGradient id="beam" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="900" y2="520">
-      <stop offset="0" stop-color="#00f2fe"/><stop offset=".3" stop-color="#7f5af0"/>
-      <stop offset=".62" stop-color="#ff2e93"/><stop offset="1" stop-color="#00ff87"/>
-      <animateTransform attributeName="gradientTransform" type="rotate" from="0 450 260" to="360 450 260" dur="7s" repeatCount="indefinite"/>
-    </linearGradient>
-    <linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="62" y1="0" x2="362" y2="0" spreadMethod="repeat">
-      <stop offset="0" stop-color="#00f2fe"/><stop offset=".35" stop-color="#a78bfa"/>
-      <stop offset=".7" stop-color="#ff2e93"/><stop offset="1" stop-color="#00f2fe"/>
-      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="300 0" dur="5s" repeatCount="indefinite"/>
-    </linearGradient>
-    <filter id="glow" filterUnits="userSpaceOnUse" x="-30" y="-30" width="960" height="580">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="b1"/>
-      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="b2"/>
-      <feMerge><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
-    <radialGradient id="amb"><stop offset="0" stop-color="#7f5af0" stop-opacity=".42"/><stop offset="1" stop-color="#7f5af0" stop-opacity="0"/></radialGradient>
-    <radialGradient id="face" cx="0" cy=".5" r="1"><stop offset="0" stop-color="#7aa2ff" stop-opacity=".55"/><stop offset="1" stop-color="#7aa2ff" stop-opacity="0"/></radialGradient>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0a0c18"/></linearGradient>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#2a3350"/></pattern>
-    <clipPath id="card"><path d="M46,22 H854 A24,24 0 0 1 878,46 V474 A24,24 0 0 1 854,498 H46 A24,24 0 0 1 22,474 V46 A24,24 0 0 1 46,22 Z"/></clipPath>
-    <clipPath id="screen"><rect x="47" y="140" width="136" height="97"/></clipPath>
-    <path id="rim" d="M46,22 H854 A24,24 0 0 1 878,46 V474 A24,24 0 0 1 854,498 H46 A24,24 0 0 1 22,474 V46 A24,24 0 0 1 46,22 Z" pathLength="1000"/>
-    <g id="comet" fill="none" stroke="url(#beam)" filter="url(#glow)">
-      <use xlink:href="#rim" href="#rim" stroke-width="3.5" stroke-opacity=".45" stroke-dasharray="320 680">
-        <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
-      </use>
-      <use xlink:href="#rim" href="#rim" stroke-width="5" stroke-dasharray="0 230 90 680">
-        <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="7s" repeatCount="indefinite"/>
-      </use>
-    </g>
-    
-    <clipPath id="twc0"><rect x="88" y="214" height="36" width="0">
-      <animate attributeName="width" values="0;400;400;0;0" keyTimes="0.0000;0.1333;0.2967;0.3000;1.0000" dur="15s" repeatCount="indefinite"/>
-    </rect></clipPath>
-    <clipPath id="twc1"><rect x="88" y="214" height="36" width="0">
-      <animate attributeName="width" values="0;0;356;356;0;0" keyTimes="0.0000;0.3333;0.4666;0.6300;0.6333;1.0000" dur="15s" repeatCount="indefinite"/>
-    </rect></clipPath>
-    <clipPath id="twc2"><rect x="88" y="214" height="36" width="0">
-      <animate attributeName="width" values="0;0;356;356;0;0" keyTimes="0.0000;0.6667;0.8000;0.9634;0.9667;1.0000" dur="15s" repeatCount="indefinite"/>
-    </rect></clipPath>
-  </defs>
-  <style>
-    .sans { font-family: "Segoe UI",system-ui,-apple-system,"Helvetica Neue",Arial,sans-serif; }
-    .mono { font-family: ui-monospace,"JetBrains Mono","Fira Code","SF Mono",Consolas,"Courier New",monospace; }
-  </style>
 
-  <!-- card -->
-  <path d="M46,22 H854 A24,24 0 0 1 878,46 V474 A24,24 0 0 1 854,498 H46 A24,24 0 0 1 22,474 V46 A24,24 0 0 1 46,22 Z" fill="url(#bg)"/>
-  <g clip-path="url(#card)">
-    <rect width="900" height="520" fill="url(#dots)" opacity=".55"/>
-    <ellipse cx="705" cy="262" rx="270" ry="230" fill="url(#amb)"><animate attributeName="opacity" values=".65;1;.65" dur="5s" repeatCount="indefinite"/></ellipse>
-    <circle cx="60" cy="70" r="1.4" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.00s" repeatCount="indefinite"/></circle><circle cx="130" cy="52" r="1.1" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="0.37s" repeatCount="indefinite"/></circle><circle cx="205" cy="88" r="1.6" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" begin="0.74s" repeatCount="indefinite"/></circle><circle cx="270" cy="60" r="1.2" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.3s" begin="1.11s" repeatCount="indefinite"/></circle><circle cx="340" cy="45" r="1.0" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="5.0s" begin="1.48s" repeatCount="indefinite"/></circle><circle cx="450" cy="40" r="1.4" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="1.85s" repeatCount="indefinite"/></circle><circle cx="520" cy="70" r="1.1" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="2.22s" repeatCount="indefinite"/></circle><circle cx="600" cy="48" r="1.5" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" begin="2.59s" repeatCount="indefinite"/></circle><circle cx="655" cy="92" r="1.1" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.3s" begin="2.96s" repeatCount="indefinite"/></circle><circle cx="740" cy="40" r="1.3" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="5.0s" begin="0.33s" repeatCount="indefinite"/></circle><circle cx="800" cy="70" r="1.6" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="0.70s" repeatCount="indefinite"/></circle><circle cx="850" cy="110" r="1.1" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.9s" begin="1.07s" repeatCount="indefinite"/></circle><circle cx="560" cy="130" r="1.0" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="3.6s" begin="1.44s" repeatCount="indefinite"/></circle><circle cx="830" cy="200" r="1.3" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="4.3s" begin="1.81s" repeatCount="indefinite"/></circle><circle cx="780" cy="150" r="1.0" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="5.0s" begin="2.18s" repeatCount="indefinite"/></circle><circle cx="490" cy="100" r="1.2" fill="#cfd8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" begin="2.55s" repeatCount="indefinite"/></circle>
-  </g>
+<!-- ========================================================= -->
+<!-- AMAAN'S GITHUB PROFILE — DARK NEON EDITION                 -->
+<!-- File: README.md                                            -->
+<!-- Replace YOUR_GITHUB_USERNAME throughout this file.         -->
+<!-- ========================================================= -->
 
-  <!-- left column -->
-  <text x="62" y="84" class="mono" font-size="14" fill="#8b949e"><tspan fill="#7ee787">amaan@mgit</tspan><tspan fill="#c9d1d9">:~$</tspan> whoami <tspan fill="#ff2e93">▌<animate attributeName="fill" values="#ff2e93;#0d1117" keyTimes="0;.5" calcMode="discrete" dur="1s" repeatCount="indefinite"/></tspan></text>
-  <text x="62" y="150" class="sans" font-size="54" font-weight="800" letter-spacing="-1" fill="url(#tg)">I'm Amaan!</text>
-  <text x="372" y="146" font-size="40">👋<animateTransform attributeName="transform" type="rotate" values="0 392 150;22 392 150;-8 392 150;20 392 150;0 392 150;0 392 150" keyTimes="0;.1;.2;.3;.4;1" dur="3s" repeatCount="indefinite"/></text>
-  <text x="62" y="186" class="sans" font-size="19" font-style="italic" fill="#8b949e">Not too easy to find someone like me ..</text>
+<div align="center">
 
-  <text x="62" y="240" class="mono" font-size="22" font-weight="700" fill="#ff2e93">▸</text>
-  
-  <g clip-path="url(#twc0)">
-    <text x="88" y="240" textLength="400" class="mono" font-size="20" font-weight="700" fill="#58a6ff">Engineering Student @ MGIT Hyderabad</text>
-  </g>
-  <rect y="217" width="2.5" height="28" rx="1" fill="#ff2e93" opacity="0">
-    <animate attributeName="x" values="88;488;488;88;88" keyTimes="0.0000;0.1333;0.2967;0.3000;1.0000" dur="15s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;1;1;0;0" keyTimes="0.0000;0.1333;0.2967;0.3000;1.0000" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
-  </rect>
-  <g clip-path="url(#twc1)">
-    <text x="88" y="240" textLength="356" class="mono" font-size="20" font-weight="700" fill="#58a6ff">Python • Web • Data • Automation</text>
-  </g>
-  <rect y="217" width="2.5" height="28" rx="1" fill="#ff2e93" opacity="0">
-    <animate attributeName="x" values="88;88;444;444;88;88" keyTimes="0.0000;0.3333;0.4666;0.6300;0.6333;1.0000" dur="15s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.3333;0.4666;0.6300;0.6333;1.0000" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
-  </rect>
-  <g clip-path="url(#twc2)">
-    <text x="88" y="240" textLength="356" class="mono" font-size="20" font-weight="700" fill="#58a6ff">Turning coffee into code, daily.</text>
-  </g>
-  <rect y="217" width="2.5" height="28" rx="1" fill="#ff2e93" opacity="0">
-    <animate attributeName="x" values="88;88;444;444;88;88" keyTimes="0.0000;0.6667;0.8000;0.9634;0.9667;1.0000" dur="15s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;1;1;1;0;0" keyTimes="0.0000;0.6667;0.8000;0.9634;0.9667;1.0000" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
-  </rect>
+<!-- ================= ANIMATED HEADER ======================== -->
 
-  <text x="62" y="290" class="sans" font-size="15.5" fill="#c9d1d9">Converting bugs to butterflies.. 😁</text>
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;10 -6;22 0;10 5;0 0" dur="5s" repeatCount="indefinite"/>
-    <g transform="translate(362 284)">
-      <ellipse cx="-4" cy="-2" rx="5" ry="7" fill="#ff2e93" transform="rotate(-20 -4 -2)"><animateTransform attributeName="transform" additive="sum" type="scale" values="1 1;0.25 1;1 1" dur=".5s" repeatCount="indefinite"/></ellipse>
-      <ellipse cx="4" cy="-2" rx="5" ry="7" fill="#00f2fe" transform="rotate(20 4 -2)"><animateTransform attributeName="transform" additive="sum" type="scale" values="1 1;0.25 1;1 1" dur=".5s" repeatCount="indefinite"/></ellipse>
-      <rect x="-1" y="-8" width="2" height="12" rx="1" fill="#e6edf3"/>
-    </g>
-  </g>
-  <text x="62" y="314" class="sans" font-size="15.5" fill="#9da7b3">Curiosity dives into me when an error occurs.</text>
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00F5FF,35:7C3AED,70:FF2E93,100:00F5FF&text=Amaan%20Uddin%20Ahmed&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=twinkling&desc=Engineering%20Student%20%7C%20Developer%20%7C%20Tech%20Explorer&descAlignY=60&descSize=15"
+  alt="Animated neon profile header"
+/>
 
-  <!-- pills -->
-  <g class="sans" font-size="12.5" font-weight="600">
-    <rect x="62" y="338" width="152" height="32" rx="16" fill="#12261d" stroke="#238636"/>
-    <circle cx="82" cy="354" r="4" fill="#3fb950"><animate attributeName="r" values="4;6.5;4" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.4;1" dur="1.8s" repeatCount="indefinite"/></circle>
-    <text x="96" y="359" fill="#7ee787">Open to collab</text>
-    <rect x="224" y="338" width="132" height="32" rx="16" fill="#161b2e" stroke="#30386a"/>
-    <text x="290" y="359" fill="#c9d1d9" text-anchor="middle">📍 Hyderabad, IN</text>
-    <rect x="366" y="338" width="176" height="32" rx="16" fill="#1d1530" stroke="#4a2f7a"/>
-    <text x="454" y="359" fill="#d2b8ff" text-anchor="middle">☕ Powered by curiosity</text>
-  </g>
+<!-- ================= ANIMATED TYPING ======================== -->
 
-  <!-- mission -->
-  <rect x="62" y="392" width="3" height="50" rx="1.5" fill="url(#tg)"/>
-  <text x="76" y="410" class="sans" font-size="15" fill="#c9d1d9"><tspan font-weight="700" fill="#ffffff">Current Mission:</tspan> Automating my entire digital existence</text>
-  <text x="76" y="434" class="sans" font-size="14.5" font-style="italic" fill="#8b949e">Trying to solve my own problems by creating them ..</text>
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=720&lines=amaan%40mgit%3A~%24+whoami;I'm+Amaan!+%F0%9F%91%8B;Not+too+easy+to+find+someone+like+me..;Converting+bugs+to+butterflies+%F0%9F%A6%8B;Curiosity+dives+into+me+when+an+error+occurs.;Code.+Create.+Debug.+Repeat."
+    alt="Animated terminal-style introduction"
+  />
+</a>
 
-  <!-- scroll cue -->
-  <g>
-    <rect x="62" y="456" width="22" height="34" rx="11" fill="none" stroke="#8b949e" stroke-width="1.6"/>
-    <rect x="71" y="462" width="4" height="7" rx="2" fill="#00f2fe">
-      <animate attributeName="y" values="462;474;462" keyTimes="0;.6;1" dur="1.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="1;0;1" keyTimes="0;.6;1" dur="1.6s" repeatCount="indefinite"/>
-    </rect>
-    <text x="98" y="478" class="sans" font-size="13" fill="#8b949e" letter-spacing="1">scroll down
-      <animate attributeName="opacity" values=".4;1;.4" dur="2s" repeatCount="indefinite"/></text>
-    <path d="M196 466 l6 6 l6 -6" fill="none" stroke="#7aa2ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/></path>
-    <path d="M196 474 l6 6 l6 -6" fill="none" stroke="#ff2e93" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-      <animate attributeName="opacity" values="0;1;0" dur="1.6s" begin=".35s" repeatCount="indefinite"/></path>
-  </g>
+<br/>
 
-  <!-- ============ SCENE: boy coding ============ -->
-  <g transform="translate(548 66) scale(0.95)">
-    <!-- moon -->
-    <g>
-      <circle cx="288" cy="46" r="34" fill="#cfd8ff" opacity=".16" filter="url(#soft)"/>
-      <circle cx="288" cy="46" r="17" fill="#eef0ff"/>
-      <circle cx="282" cy="42" r="3.5" fill="#d5d9f5"/><circle cx="294" cy="53" r="2.6" fill="#d5d9f5"/><circle cx="292" cy="38" r="1.8" fill="#d5d9f5"/>
-    </g>
+<!-- ================= PROFILE BADGES ======================== -->
 
-    <!-- monitor glow -->
-    <ellipse cx="118" cy="182" rx="130" ry="105" fill="#7f5af0" opacity=".35" filter="url(#soft)">
-      <animate attributeName="opacity" values=".25;.5;.25" dur="3s" repeatCount="indefinite"/></ellipse>
+<img
+  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"
+  alt="Profile views"
+/>
 
-    <!-- floating tags -->
-    <g class="mono" font-size="12" font-weight="700">
-      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1" dur="4s" begin="0s" repeatCount="indefinite"/><rect x="132" y="52" width="46" height="22" rx="11" fill="#161b2e" stroke="#58a6ff"/><text x="155" y="67" fill="#58a6ff" text-anchor="middle">&lt;/&gt;</text></g>
-      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1" dur="3.4s" begin="0.8s" repeatCount="indefinite"/><rect x="212" y="92" width="40" height="22" rx="11" fill="#161b2e" stroke="#ff2e93"/><text x="232" y="107" fill="#ff2e93" text-anchor="middle">{ }</text></g>
-      <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .6 1;.4 0 .6 1" dur="4.6s" begin="1.6s" repeatCount="indefinite"/><rect x="276" y="128" width="40" height="22" rx="11" fill="#161b2e" stroke="#7ee787"/><text x="296" y="143" fill="#7ee787" text-anchor="middle">git</text></g>
-    </g>
+<img
+  src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-123D2B?style=flat-square&logo=github&logoColor=white"
+  alt="Open to collaborate"
+/>
 
-    <!-- floor shadow -->
-    <ellipse cx="160" cy="392" rx="170" ry="10" fill="#000" opacity=".4"/>
+<img
+  src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-16213E?style=flat-square&logo=googlemaps&logoColor=white"
+  alt="Hyderabad, India"
+/>
 
-    <!-- desk -->
-    <rect x="14" y="278" width="10" height="112" fill="#2a2150"/>
-    <rect x="206" y="278" width="10" height="112" fill="#2a2150"/>
-    <rect x="0" y="268" width="236" height="11" rx="3" fill="#3d3170"/>
-    <rect x="0" y="268" width="236" height="3" rx="1.5" fill="#6a59c4" opacity=".7"/>
+<img
+  src="https://img.shields.io/badge/Powered%20by-Curiosity-261746?style=flat-square&logo=rocket&logoColor=white"
+  alt="Powered by curiosity"
+/>
 
-    <!-- mug + steam -->
-    <rect x="10" y="250" width="16" height="18" rx="3" fill="#ff2e93"/>
-    <path d="M26 255 q7 0 7 6 q0 6 -7 6" fill="none" stroke="#ff2e93" stroke-width="2.4"/>
-    <g fill="none" stroke="#cfd6ff" stroke-width="2" stroke-linecap="round">
-      <path d="M14 246 q-4 -7 0 -12 q4 -5 0 -11" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.6s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -8" dur="2.6s" repeatCount="indefinite"/></path>
-      <path d="M20 246 q-4 -7 0 -12 q4 -5 0 -11" opacity="0"><animate attributeName="opacity" values="0;.55;0" dur="2.6s" begin=".9s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -8" dur="2.6s" begin=".9s" repeatCount="indefinite"/></path>
-    </g>
+</div>
 
-    <!-- monitor -->
-    <rect x="108" y="244" width="14" height="18" fill="#232b47"/>
-    <rect x="92" y="260" width="46" height="8" rx="4" fill="#232b47"/>
-    <rect x="40" y="118" width="150" height="126" rx="9" fill="#151a2c" stroke="#3a4670" stroke-width="1.5"/>
-    <rect x="47" y="125" width="136" height="112" rx="5" fill="#0b1020"/>
-    <g clip-path="url(#screen)"><g>
-      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 -144" dur="7s" repeatCount="indefinite"/>
-      <rect x="51" y="144" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="144" width="14" height="4" rx="2" fill="#ff7ab6"/><rect x="81" y="144" width="30" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="156" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="156" width="24" height="4" rx="2" fill="#7aa2ff"/><rect x="100" y="156" width="18" height="4" rx="2" fill="#ffd479"/><rect x="51" y="168" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="168" width="10" height="4" rx="2" fill="#ff7ab6"/><rect x="86" y="168" width="40" height="4" rx="2" fill="#7ee787"/><rect x="51" y="180" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="180" width="34" height="4" rx="2" fill="#c9d1d9"/><rect x="119" y="180" width="12" height="4" rx="2" fill="#7aa2ff"/><rect x="51" y="192" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="192" width="20" height="4" rx="2" fill="#7aa2ff"/><rect x="105" y="192" width="26" height="4" rx="2" fill="#ffd479"/><rect x="136" y="192" width="10" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="204" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="204" width="16" height="4" rx="2" fill="#ff7ab6"/><rect x="92" y="204" width="28" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="216" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="216" width="22" height="4" rx="2" fill="#7ee787"/><rect x="51" y="228" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="228" width="14" height="4" rx="2" fill="#ff7ab6"/><rect x="81" y="228" width="36" height="4" rx="2" fill="#7aa2ff"/><rect x="51" y="240" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="240" width="30" height="4" rx="2" fill="#c9d1d9"/><rect x="106" y="240" width="14" height="4" rx="2" fill="#ffd479"/><rect x="51" y="252" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="252" width="18" height="4" rx="2" fill="#7aa2ff"/><rect x="103" y="252" width="38" height="4" rx="2" fill="#7ee787"/><rect x="51" y="264" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="264" width="12" height="4" rx="2" fill="#ff7ab6"/><rect x="88" y="264" width="24" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="276" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="276" width="26" height="4" rx="2" fill="#ffd479"/><rect x="93" y="276" width="16" height="4" rx="2" fill="#7aa2ff"/><rect x="51" y="288" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="288" width="14" height="4" rx="2" fill="#ff7ab6"/><rect x="81" y="288" width="30" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="300" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="300" width="24" height="4" rx="2" fill="#7aa2ff"/><rect x="100" y="300" width="18" height="4" rx="2" fill="#ffd479"/><rect x="51" y="312" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="312" width="10" height="4" rx="2" fill="#ff7ab6"/><rect x="86" y="312" width="40" height="4" rx="2" fill="#7ee787"/><rect x="51" y="324" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="324" width="34" height="4" rx="2" fill="#c9d1d9"/><rect x="119" y="324" width="12" height="4" rx="2" fill="#7aa2ff"/><rect x="51" y="336" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="336" width="20" height="4" rx="2" fill="#7aa2ff"/><rect x="105" y="336" width="26" height="4" rx="2" fill="#ffd479"/><rect x="136" y="336" width="10" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="348" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="348" width="16" height="4" rx="2" fill="#ff7ab6"/><rect x="92" y="348" width="28" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="360" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="360" width="22" height="4" rx="2" fill="#7ee787"/><rect x="51" y="372" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="372" width="14" height="4" rx="2" fill="#ff7ab6"/><rect x="81" y="372" width="36" height="4" rx="2" fill="#7aa2ff"/><rect x="51" y="384" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="384" width="30" height="4" rx="2" fill="#c9d1d9"/><rect x="106" y="384" width="14" height="4" rx="2" fill="#ffd479"/><rect x="51" y="396" width="5" height="4" rx="2" fill="#3b4466"/><rect x="80" y="396" width="18" height="4" rx="2" fill="#7aa2ff"/><rect x="103" y="396" width="38" height="4" rx="2" fill="#7ee787"/><rect x="51" y="408" width="5" height="4" rx="2" fill="#3b4466"/><rect x="71" y="408" width="12" height="4" rx="2" fill="#ff7ab6"/><rect x="88" y="408" width="24" height="4" rx="2" fill="#c9d1d9"/><rect x="51" y="420" width="5" height="4" rx="2" fill="#3b4466"/><rect x="62" y="420" width="26" height="4" rx="2" fill="#ffd479"/><rect x="93" y="420" width="16" height="4" rx="2" fill="#7aa2ff"/>
-    </g></g>
-    <rect x="47" y="187" width="136" height="12" fill="#7f5af0" opacity=".16"/>
-    <path d="M47 130 a5 5 0 0 1 5 -5 h126 a5 5 0 0 1 5 5 v9 h-136 z" fill="#161d38"/>
-    <circle cx="55" cy="132" r="2.5" fill="#ff5f57"/><circle cx="64" cy="132" r="2.5" fill="#febc2e"/><circle cx="73" cy="132" r="2.5" fill="#28c840"/>
-    <rect x="47" y="125" width="136" height="112" rx="5" fill="none" stroke="#7aa2ff" stroke-opacity=".25"/>
-    <text x="70" y="118" class="mono" font-size="11" fill="#00f2fe" opacity="0">1<animateTransform attributeName="transform" type="translate" values="0 0;0 -58" dur="3.2s" begin="0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.2s" begin="0s" repeatCount="indefinite"/></text><text x="96" y="118" class="mono" font-size="11" fill="#00f2fe" opacity="0">0<animateTransform attributeName="transform" type="translate" values="0 0;0 -58" dur="3.2s" begin="1.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.2s" begin="1.1s" repeatCount="indefinite"/></text><text x="126" y="118" class="mono" font-size="11" fill="#00f2fe" opacity="0">{<animateTransform attributeName="transform" type="translate" values="0 0;0 -58" dur="3.2s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.2s" begin="2.1s" repeatCount="indefinite"/></text><text x="150" y="118" class="mono" font-size="11" fill="#00f2fe" opacity="0">&lt;/&gt;<animateTransform attributeName="transform" type="translate" values="0 0;0 -58" dur="3.2s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.2s" begin="0.6s" repeatCount="indefinite"/></text><text x="168" y="118" class="mono" font-size="11" fill="#00f2fe" opacity="0">0<animateTransform attributeName="transform" type="translate" values="0 0;0 -58" dur="3.2s" begin="1.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="3.2s" begin="1.7s" repeatCount="indefinite"/></text>
+<br/>
 
-    <!-- keyboard -->
-    <rect x="142" y="262" width="56" height="6" rx="2" fill="#242d52"/>
-    <g fill="#7aa2ff">
-      <rect x="146" y="263.5" width="4" height="2" rx="1" opacity=".5"><animate attributeName="opacity" values=".2;1;.2" dur=".45s" repeatCount="indefinite"/></rect>
-      <rect x="156" y="263.5" width="4" height="2" rx="1" opacity=".5"><animate attributeName="opacity" values=".2;1;.2" dur=".6s" begin=".1s" repeatCount="indefinite"/></rect>
-      <rect x="166" y="263.5" width="4" height="2" rx="1" opacity=".5"><animate attributeName="opacity" values=".2;1;.2" dur=".5s" begin=".25s" repeatCount="indefinite"/></rect>
-      <rect x="176" y="263.5" width="4" height="2" rx="1" opacity=".5"><animate attributeName="opacity" values=".2;1;.2" dur=".7s" begin=".05s" repeatCount="indefinite"/></rect>
-      <rect x="186" y="263.5" width="4" height="2" rx="1" opacity=".5"><animate attributeName="opacity" values=".2;1;.2" dur=".55s" begin=".3s" repeatCount="indefinite"/></rect>
-    </g>
+<!-- ================= HERO / ABOUT ========================== -->
 
-    <!-- chair (back) -->
-    <rect x="272" y="238" width="13" height="84" rx="6" fill="#2a2f55"/>
-    <rect x="276" y="250" width="4" height="50" rx="2" fill="#ff2e93" opacity=".8"/>
+<table>
+<tr>
+<td width="58%" valign="middle">
 
-    <!-- legs -->
-    <rect x="190" y="302" width="86" height="22" rx="11" fill="#26324f"/>
-    <rect x="190" y="312" width="21" height="62" rx="10" fill="#202b47"/>
-    <path d="M176 374 h36 a8 8 0 0 1 8 8 v3 h-52 a8 8 0 0 1 8 -11z" fill="#eef0ff"/>
-    <rect x="168" y="383" width="52" height="4" rx="2" fill="#ff2e93"/>
+## 👋 Hey, I'm Amaan!
 
-    <!-- chair seat / base -->
-    <rect x="226" y="318" width="62" height="11" rx="5" fill="#2a2f55"/>
-    <rect x="252" y="329" width="8" height="38" fill="#1c2142"/>
-    <rect x="222" y="366" width="68" height="6" rx="3" fill="#1c2142"/>
-    <circle cx="228" cy="378" r="5" fill="#11152e"/><circle cx="256" cy="378" r="5" fill="#11152e"/><circle cx="284" cy="378" r="5" fill="#11152e"/>
+*Not too easy to find someone like me...*
 
-    <!-- torso -->
-    <path d="M241 238 C230 266 230 300 238 324 L282 324 C288 292 286 262 272 238 Z" fill="#7c3aed"/>
-    <ellipse cx="264" cy="238" rx="15" ry="9" fill="#6a2fd0"/>
-    <path d="M247 246 v22 M254 246 v18" stroke="#d2b8ff" stroke-width="1.6" stroke-linecap="round" opacity=".7"/>
+💫 **Converting bugs to butterflies.**
 
-    <!-- neck + head -->
-    <rect x="240" y="226" width="15" height="14" rx="4" fill="#b57d4e"/>
-    <circle cx="247" cy="202" r="28" fill="#c98f5f"/>
-    <circle cx="259" cy="209" r="6" fill="#b57d4e"/>
-    <circle cx="219" cy="207" r="4.2" fill="#c98f5f"/>
-    <path d="M228 220 q5 3.5 10 0" fill="none" stroke="#6b3f22" stroke-width="2" stroke-linecap="round"/>
-    <path d="M226 192 l11 -2" stroke="#2a1a12" stroke-width="2.4" stroke-linecap="round"/>
-    <ellipse cx="231" cy="203" rx="2.8" ry="3.2" fill="#11152e"><animate attributeName="ry" values="3.2;3.2;.4;3.2" keyTimes="0;.93;.96;1" dur="4s" repeatCount="indefinite"/></ellipse>
-    <!-- glasses -->
-    <circle cx="231" cy="203" r="9" fill="#7aa2ff" fill-opacity=".14" stroke="#9fb4ff" stroke-width="1.6"/>
-    <path d="M240 203 L257 205" stroke="#9fb4ff" stroke-width="1.6" stroke-linecap="round"/>
-    <path d="M225 199 l5 -3" stroke="#fff" stroke-width="1.4" stroke-linecap="round" opacity=".6"><animate attributeName="opacity" values=".2;.9;.2" dur="2.4s" repeatCount="indefinite"/></path>
-    <!-- hair -->
-    <path d="M219 197 C214 176 232 166 250 168 C270 170 278 190 272 214 C270 200 262 192 254 190 C242 188 230 188 219 197 Z" fill="#151126"/>
-    <path d="M219 197 C216 186 224 176 236 174 C228 182 226 190 227 196 Z" fill="#151126"/>
-    <!-- headphones -->
-    <path d="M232 178 C242 164 270 166 272 196" fill="none" stroke="#ff2e93" stroke-width="5" stroke-linecap="round"/>
-    <ellipse cx="260" cy="210" rx="8.5" ry="12" fill="#ff2e93"/>
-    <ellipse cx="260" cy="210" rx="4.5" ry="7.5" fill="#ffd0e6"><animate attributeName="opacity" values=".35;.9;.35" dur=".9s" repeatCount="indefinite"/></ellipse>
-    <!-- screen light on face -->
-    <circle cx="247" cy="202" r="28" fill="url(#face)"><animate attributeName="opacity" values=".5;1;.5" dur="2.4s" repeatCount="indefinite"/></circle>
+🧠 Curiosity dives into me when an error occurs.
 
-    <!-- music notes -->
-    <g font-size="13" fill="#ff7ab6" class="sans">
-      <text x="268" y="170" opacity="0">♪<animateTransform attributeName="transform" type="translate" values="0 0;12 -30" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/></text>
-      <text x="274" y="176" opacity="0">♫<animateTransform attributeName="transform" type="translate" values="0 0;10 -34" dur="3s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="3s" begin="1.4s" repeatCount="indefinite"/></text>
-    </g>
+🎓 Engineering student at **MGIT, Hyderabad**
 
-    <!-- arm (upper + typing forearm) -->
-    <line x1="257" y1="252" x2="250" y2="283" stroke="#7c3aed" stroke-width="15" stroke-linecap="round"/>
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 250 283;-3.5 250 283;1.5 250 283;-2.5 250 283;0 250 283" dur=".7s" repeatCount="indefinite"/>
-      <line x1="250" y1="283" x2="194" y2="261" stroke="#6a2fd0" stroke-width="13" stroke-linecap="round"/>
-      <circle cx="191" cy="259.5" r="7.5" fill="#c98f5f"/>
-    </g>
-  </g>
+💻 Exploring programming, software development, and web technologies.
 
-  <!-- animated border: two comets half a lap apart -->
-  <path d="M46,22 H854 A24,24 0 0 1 878,46 V474 A24,24 0 0 1 854,498 H46 A24,24 0 0 1 22,474 V46 A24,24 0 0 1 46,22 Z" fill="none" stroke="#1f2638" stroke-width="2"/>
-  <path d="M46,22 H854 A24,24 0 0 1 878,46 V474 A24,24 0 0 1 854,498 H46 A24,24 0 0 1 22,474 V46 A24,24 0 0 1 46,22 Z" fill="none" stroke="url(#beam)" stroke-width="1.5" opacity=".3"/>
-  <use xlink:href="#comet" href="#comet"/>
-  <use xlink:href="#comet" href="#comet" transform="rotate(180 450 260)"/>
-</svg>
+🚀 Learning by building, breaking, fixing, and building again.
+
+<br/>
+
+**🟢 Current Mission**
+
+Automating my digital world, one problem at a time.
+
+*Trying to solve my own problems by creating them...*
+
+<br/>
+
+<img
+  src="https://img.shields.io/badge/Mindset-Always%20Learning-111827?style=flat-square&logo=bookstack&logoColor=00F5FF"
+  alt="Always learning"
+/>
+
+<img
+  src="https://img.shields.io/badge/Approach-Build%20%26%20Improve-111827?style=flat-square&logo=rocket&logoColor=FF2E93"
+  alt="Build and improve"
+/>
+
+</td>
+
+<td width="42%" align="center" valign="middle">
+
+<!-- Developer illustration -->
+
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"
+  alt="Developer illustration"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ================= TECHNOLOGY STACK ====================== -->
+
+<h2 align="left">⚡ Tech Stack & Skills</h2>
+
+<p align="left">
+  <sub>Languages · Frontend · Backend · Frameworks · Tools</sub>
+</p>
+
+<!-- ================= PROGRAMMING LANGUAGES ================== -->
+
+<h3 align="left">💻 Languages</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=c"
+    height="42"
+    alt="C"
+    title="C"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=cpp"
+    height="42"
+    alt="C++"
+    title="C++"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=python"
+    height="42"
+    alt="Python"
+    title="Python"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=java"
+    height="42"
+    alt="Java"
+    title="Java"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=js"
+    height="42"
+    alt="JavaScript"
+    title="JavaScript"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=html"
+    height="42"
+    alt="HTML5"
+    title="HTML5"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=css"
+    height="42"
+    alt="CSS3"
+    title="CSS3"
+  />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-161B22?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3"/>
+</p>
+
+<!-- ================= FRAMEWORKS ============================ -->
+
+<h3 align="left">🧩 Frameworks & Web</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    height="42"
+    alt="React"
+    title="React"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=django"
+    height="42"
+    alt="Django"
+    title="Django"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=dotnet"
+    height="42"
+    alt=".NET"
+    title=".NET"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    height="42"
+    alt="Node.js"
+    title="Node.js"
+  />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Django-161B22?style=flat-square&logo=django&logoColor=092E20" alt="Django"/>
+  <img src="https://img.shields.io/badge/.NET-161B22?style=flat-square&logo=dotnet&logoColor=512BD4" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-161B22?style=flat-square&logo=fastapi&logoColor=00F5FF" alt="REST APIs"/>
+</p>
+
+<!-- ================= TOOLS ================================== -->
+
+<h3 align="left">🛠️ Tools & Platforms</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=vscode"
+    height="42"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=git"
+    height="42"
+    alt="Git"
+    title="Git"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    height="42"
+    alt="GitHub"
+    title="GitHub"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=linux"
+    height="42"
+    alt="Linux"
+    title="Linux"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=bash"
+    height="42"
+    alt="Bash"
+    title="Bash"
+  />
+  &nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=postman"
+    height="42"
+    alt="Postman"
+    title="Postman"
+  />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman"/>
+</p>
+
+<!-- ================= DATABASES ============================= -->
+
+<h3 align="left">🗄️ Databases & Cloud</h3>
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,firebase,aws"
+    alt="MySQL, MongoDB, PostgreSQL, SQLite, Firebase and AWS"
+  />
+</p>
+
+<!-- ================= SKILLS NOTE =========================== -->
+
+<p>
+  <sub>
+    ⚡ Exploring new technologies and expanding my toolkit through
+    projects, practice, and continuous learning.
+  </sub>
+</p>
+
+---
+
+<!-- ================= GITHUB ACTIVITY ======================= -->
+
+<h2 align="left">📈 GitHub Activity</h2>
+
+<p align="left">
+  <sub>
+    A visual timeline of my GitHub contributions and commit activity.
+    Simple, clean, and focused on the graph.
+  </sub>
+</p>
+
+<div align="center">
+
+<!--
+  This is the only GitHub statistics visualization on the page.
+  No streak cards, grade cards, trophies, or summary statistics.
+-->
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FF2E93&area=true&area_color=7C3AED&hide_border=true&radius=8&custom_title=Commits%20%26%20Contribution%20Activity"
+    alt="GitHub commits and contribution activity graph"
+  />
+</a>
+
+</div>
+
+<p align="center">
+  <sub>Every contribution is a step forward. Keep building. 🚀</sub>
+</p>
+
+---
+
+<!-- ================= CONTACT =============================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <sub>
+    Have an idea, project, or opportunity? Let's connect.
+  </sub>
+</p>
+
+<div align="center">
+
+<!-- Email shortcut -->
+
+<a href="mailto:amaanuddin9595@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email Amaan"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<!-- LinkedIn shortcut -->
+
+<a href="https://www.linkedin.com/in/amaanuddin-ahmed-725617340/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with Amaan on LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<!-- GitHub shortcut -->
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    src="https://img.shields.io/badge/GitHub-Find%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="Visit Amaan's GitHub"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ================= CONTACT ICONS ========================= -->
+
+<div align="center">
+
+<a href="mailto:amaanuddin9595@gmail.com">
+  <img
+    src="https://skillicons.dev/icons?i=gmail"
+    height="36"
+    alt="Gmail"
+    title="Email me"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/amaanuddin-ahmed-725617340/">
+  <img
+    src="https://skillicons.dev/icons?i=linkedin"
+    height="36"
+    alt="LinkedIn"
+    title="Connect on LinkedIn"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img
+    src="https://skillicons.dev/icons?i=github"
+    height="36"
+    alt="GitHub"
+    title="Visit GitHub"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ================= FOOTER ================================ -->
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:7C3AED,75:FF2E93,100:00F5FF&height=110&section=footer"
+  alt="Animated neon footer"
+/>
+
+<sub>
+  Designed with curiosity, powered by coffee, and improved with code. ☕
+</sub>
+
+<br/><br/>
+
+<sub>
+  © Amaan Uddin Ahmed · Keep learning. Keep creating. Keep shipping.
+</sub>
+
+</div>
